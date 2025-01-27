@@ -32,21 +32,30 @@ Welcome to the **Learn JavaScript** repository! This is a beginner-friendly reso
 │   ├── to-do-app/               # Create a simple to-do list app
 │   └── weather-app/             # Build a weather app using an API
 └── README.md              # This file
+
 🛠️ Prerequisites
 Before diving into JavaScript, make sure you have the following tools installed:
 
-Web Browser: Google Chrome or any modern browser.
-Code Editor: Visual Studio Code.
-Node.js (optional): For running JavaScript outside the browser. Download Node.js.
+1] Web Browser: Google Chrome or any modern browser.
+2] Code Editor: Visual Studio Code.
+3] Node.js (optional): For running JavaScript outside the browser. Download Node.js.
+
+
 🚀 Getting Started
 Clone the Repository:
 
-bash
-Copy
-Edit
 git clone https://github.com/your-username/learn-javascript.git
 cd learn-javascript
 Explore the Files: Navigate through the folders and open .js files in a code editor.
+
+Run Your Code:
+
+For browser-based examples, open the .html files in your browser.
+For Node.js examples, run:
+bash
+Copy
+Edit
+node filename.js
 
 Run Your Code:
 
