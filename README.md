@@ -1,8 +1,4 @@
-Here's a clean and detailed README.md file for a GitHub repository aimed at learning JavaScript. You can customize it further to match the content of your repository.
 
-markdown
-Copy
-Edit
 # Learn JavaScript 📚
 
 Welcome to the **Learn JavaScript** repository! This is a beginner-friendly resource for learning JavaScript, one of the most popular and versatile programming languages used in web development.
