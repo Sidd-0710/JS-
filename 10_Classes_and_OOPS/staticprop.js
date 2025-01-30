@@ -9,7 +9,7 @@ class User {
 
     static createId(){
         return `123`
-    }
+    } 
 }
 
 const hitesh = new User("hitesh")
