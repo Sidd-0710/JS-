@@ -14,4 +14,8 @@ accountCity ="Pune"
 console.log(accountId);
 
 console.table([accountId, accountEmail, accountPassword , accountCity])
+/*
 
+not to use var in js 
+
+*/
