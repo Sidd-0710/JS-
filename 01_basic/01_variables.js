@@ -9,7 +9,7 @@ accountCity ="Nepal"
 
 accountEmail = "bsc@.com"
 accountPassword =" 34567"
-accountCity =" nagpur"
+accountCity ="Pune"
 
 console.log(accountId);
 
