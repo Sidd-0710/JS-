@@ -17,5 +17,6 @@ console.table([accountId, accountEmail, accountPassword , accountCity])
 /*
 
 not to use var in js 
+because of the issues in block scope and fuctional scope 
 
 */
