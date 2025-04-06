@@ -1,13 +1,13 @@
-const myObject = {
-    js: 'javascript',
-    cpp: 'C++',
-    rb: "ruby",
-    swift: "swift by apple"
-}
+// const myObject = {
+//     js: 'javascript',
+//     cpp: 'C++',
+//     rb: "ruby",
+//     swift: "swift by apple"
+// }
 
-for (const key in myObject) {
-    console.log(`${key} shortcut is for ${myObject[key]}`);
-}
+// for (const key in myObject) {
+//     console.log(`${key} shortcut is for ${myObject[key]}`);
+// }
 
 const programming =["js", "cpp", " rb"," py","java"]
 
