@@ -22,13 +22,21 @@
     }
     addLanguage("python")
     addLanguage("typescript")
+    addLanguage("java")
+    addLanguage("c++")
+    addLanguage("c#")
+    addLanguage("php")
 
     function addOptiLanguage(langName){
         const li = document.createElement('li');
         li.appendChild(document.createTextNode(langName))
         document.querySelector('.language').appendChild(li)
     }
+    
     addOptiLanguage('golang')
+    addOptiLanguage('rust')
+    addOptiLanguage('swift')
+    addOptiLanguage('kotlin')
 
     //edit 
     const  secondLang = document.querySelector("li:nth-child(2)")
