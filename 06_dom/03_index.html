@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>My profile</title>
 </head>
-<body style="background-color: #212121; color: #fff;">
+<body style="background-color: #212121; color: #ffffff;">
     
 </body>
 <script>
@@ -18,6 +18,26 @@
     div.style.backgroundColor = "green"
     div.style.padding = "19px"
     // div.innerText = "Chai aur code"
+    div.style.fontSize = "20px"
+    div.style.fontWeight = "bold"
+    div.style.textAlign = "center"
+    div.style.borderRadius = "10px"
+    div.style.margin = "20px"
+    div.style.boxShadow = "0 0 10px #000000"
+    div.style.transition = "all 0.5s ease"
+    div.style.cursor = "pointer"
+    div.addEventListener("click", function () {
+        alert("Hello world")
+    })
+    div.addEventListener("mouseover", function () {
+        div.style.backgroundColor = "red"
+    })
+    div.addEventListener("mouseout", function () {
+        div.style.backgroundColor = "green"
+    })
+    div.addEventListener("dblclick", function () {
+        div.style.backgroundColor = "blue"
+    })
     const addText = document.createTextNode("Chai aur code")
     div.appendChild(addText)
 
