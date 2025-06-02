@@ -7,8 +7,7 @@
 
 // console.log(` Hello My name is ${name} and my repo Count is ${repocount} `); //New Way to write string in js
 
-
-
+// String are immutable in JavaScript, meaning once created, they cannot be changed.
 
 // const name = "sidd"
 // const repoCount = 5
